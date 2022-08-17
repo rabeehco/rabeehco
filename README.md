@@ -1,4 +1,4 @@
->  **Hey There** :wave:
+# Hey There :wave:
 ## About Me :man_technologist:
 :abacus: MERN stack developer.<br>:yellow_heart: In love with JavaScript.<br>:telescope: Learning new things.
 
