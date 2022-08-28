@@ -1,5 +1,5 @@
 # About Me :man_technologist:
-:abacus: MERN stack developer.<br>:yellow_heart: In love with JavaScript.<br>:telescope: Learning new things.
+:dart: Currently Focusing on Node.js and React.js.<br>:yellow_heart: Love to Explore New Technologies.<br>:globe_with_meridians: I am Passionate About Web Development.
 
 ## :envelope: Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rabeehebrahim) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rabeehebrahim_) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rabeehebrahim)
