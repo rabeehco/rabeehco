@@ -9,5 +9,4 @@
 
 ### :chart_with_upwards_trend: GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=codewithrabeeh&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=codewithrabeeh&theme=dark&hide_border=true)<br/>
 
