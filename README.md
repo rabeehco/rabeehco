@@ -1,5 +1,5 @@
 # About Me :man_technologist:
-:dart: Currently Focusing on Node.js and React.js.<br>:yellow_heart: Love to Explore New Technologies.<br>:globe_with_meridians: I am Passionate About Web Development.
+:dart: Currently Focusing on Node.js and React.js.<br>:yellow_heart: Love to Explore New Technologies.<br>:globe_with_meridians: I am Passionate About Web Development.<br> :link: Visit my portfolio at [rabeeh.xyz](rabeeh.xyz)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rabeehebrahim) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rabeehebrahim_) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rabeehebrahim)
 
@@ -8,5 +8,6 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ### :chart_with_upwards_trend: GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codewithrabeeh&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=codewithrabeeh&theme=dark&hide_border=true&include_all_commits=false&count_private=false" >
+</p>
