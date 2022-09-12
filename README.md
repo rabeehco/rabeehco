@@ -1,5 +1,5 @@
 # About Me :man_technologist:
-:dart: Currently Focusing on Node.js and React.js.<br>:yellow_heart: Love to Explore New Technologies.<br>:globe_with_meridians: I am Passionate About Web Development.<br> :link: Visit my portfolio at [rabeeh.xyz](rabeeh.xyz)
+:dart: Currently Focusing on Node.js and React.js.<br>:yellow_heart: Love to Explore New Technologies.<br> :link: Visit My Portfolio at [rabeeh.xyz](rabeeh.xyz)<br> :bookmark_tabs: Download My [Resume](https://drive.google.com/file/d/1jWGN_5pkkVCA5TvWfta2bh7vI_fo6fah/view?usp=sharing)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rabeehebrahim) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rabeehebrahim_) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rabeehebrahim)
 
