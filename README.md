@@ -1,5 +1,5 @@
 # About Me :man_technologist:
-:dart: Currently Focusing on Node.js and React.js.<br>:yellow_heart: Love to Explore New Technologies.<br> :bust_in_silhouette: Visit My Portfolio at [rabeeh.xyz](https://rabeeh.xyz)<br> :bookmark_tabs: Download My [Resume](https://drive.google.com/file/d/1jWGN_5pkkVCA5TvWfta2bh7vI_fo6fah/view?usp=sharing)
+:dart: Currently Focusing on Node.js and React.js.<br>:yellow_heart: Love to Explore New Technologies.<br> :bust_in_silhouette: Visit My Portfolio at [rabeeh.xyz](https://rabeeh.xyz)<br> :bookmark_tabs: Download My [Resume](https://drive.google.com/file/d/1jWGN_5pkkVCA5TvWfta2bh7vI_fo6fah/view?usp=sharing)<br>:mailbox_with_mail: Reach Me at rabeehebrahim48@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rabeehebrahim) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rabeehebrahim)
 
