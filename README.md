@@ -1,5 +1,3 @@
-<img src="https://github-hero-readme.vercel.app/api?username=codewithrabeeh&linkedin=rabeehebrahim&twitter=rabeehebrahim_"/>
-
 # About Me :man_technologist:
 :dart: Currently Focusing on Node.js and React.js.<br>:briefcase: Open to Work.<br>:people_holding_hands: Looking to Collaborate on MERN Stack Projects. <br>:star2: OS: Kubuntu (Ubuntu + KDE) <br> :bust_in_silhouette: Visit My Portfolio at [iamrabeeh.me](https://iamrabeeh.me)<br> :bookmark_tabs: Download My [Resume](https://drive.google.com/file/d/1BWuzo-NBDdjW-VLBp51Z6g8zy1a0s_yW/view?usp=sharing)<br>:mailbox_with_mail: Reach Me at rabeehebrahim48@gmail.com
 
