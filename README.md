@@ -1,7 +1,7 @@
 # About Me :man_technologist:
-:dart: Currently Focusing on Node.js and React.js.<br>:briefcase: Open to Work.<br>:people_holding_hands: Looking to Collaborate on MERN Stack Projects. <br>:star2: OS: Kubuntu (Ubuntu + KDE) <br> :bust_in_silhouette: Visit My Portfolio at [iamrabeeh.me](https://iamrabeeh.me)<br> :bookmark_tabs: Download My [Resume](https://drive.google.com/file/d/17YpJRe4mIuxEKTX3DiQdl6kc6oF7gbUN/view?usp=sharing)<br>:mailbox_with_mail: Reach Me at rabeehebrahim48@gmail.com
+:dart: MERN Stack Developer.<br>:people_holding_hands: Looking to Collaborate on Open Source Projects. <br>:star2: OS: Kubuntu (Ubuntu + KDE) <br> :bust_in_silhouette: Visit My Portfolio at [iamrabeeh.me](https://iamrabeeh.me)<br> :bookmark_tabs: Download My [Resume](https://drive.google.com/file/d/17YpJRe4mIuxEKTX3DiQdl6kc6oF7gbUN/view?usp=sharing)<br>:mailbox_with_mail: Reach Me at rabeehebrahim48@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabeehebrahim/) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://rabeeh.tech)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabeehebrahim/) 
 
 
 ### :hammer_and_wrench: Tech Stack:
