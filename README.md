@@ -1,7 +1,7 @@
 ![quotes](https://github.com/codewithrabeeh/codewithrabeeh/assets/65481473/4c6ff418-81ed-4867-8574-33359f4ac87d)
 
 # About Me :man_technologist:
-:dart: MERN Stack Developer.<br>:people_holding_hands: Looking to Collaborate on Open Source Projects. <br>:star2: OS: Kubuntu (Ubuntu + KDE) <br> :bust_in_silhouette: Visit My Portfolio at [iamrabeeh.me](https://iamrabeeh.me)<br> :bookmark_tabs: Download My [Resume](https://drive.google.com/file/d/17YpJRe4mIuxEKTX3DiQdl6kc6oF7gbUN/view?usp=sharing)<br>:mailbox_with_mail: Reach Me at rabeehebrahim48@gmail.com
+:dart: MERN Stack Developer.<br>:people_holding_hands: Looking to Collaborate on Open Source Projects. <br> :bust_in_silhouette: Visit My Portfolio at [iamrabeeh.me](https://iamrabeeh.me)<br> :bookmark_tabs: Download My [Resume](https://drive.google.com/file/d/17YpJRe4mIuxEKTX3DiQdl6kc6oF7gbUN/view?usp=sharing)<br>:mailbox_with_mail: Reach Me at rabeehebrahim48@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabeehebrahim/) 
 [![Twitter](https://img.shields.io/badge/twitter-%230f1417.svg?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/codewithrabeeh)
